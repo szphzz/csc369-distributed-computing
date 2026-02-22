@@ -1,0 +1,100 @@
+1, Zonability, Beale St, Austin, 78702, TX, 320 630 8462
+2, Panjiva, Crane St, New York, 10010, NY, 912 868 3908
+3, Avvo, Isola Way, Seattle, 98104, WA, 665 183 1354
+4, Equal Pay for Women, Fredson Ct, Midlothian, 23113, VA, 987 217 3315
+5, Stevens Worldwide Van Lines, Sumner Ave, Wyckoff, 7481, NJ, 213 865 0540
+6, College Board, Cambon Dr, New York, 11023, NY, 863 028 9664
+7, Arpin Van Lines, Acme Aly, West Warwick, 2893, RI, 895 403 4372
+8, PayScale Inc., Holland Ct, Seattle, 98109, WA, 328 519 0155
+9, Compliance and Risks, 01st Ti St, Oregon House, 95962, CA, 160 318 9518
+10, PlaceILive.com, Merchant Rd, Vilnius, 3231, AL, 208 340 0673
+11, LOGIXDATA LLC, Grand View Ave, Sacramento, 95811, CA, 874 481 9993
+12, Weather Underground, Shore View Ave, San Francisco, 94108, CA, 576 447 0079
+13, Telenav, Ravenwood Dr, Sunnyvale, 94085, CA, 773 326 6217
+14, Porch, Signal Rd, Seattle, 98102, WA, 732 101 7126
+15, Zillow, Laskie St, Seattle, 98101, WA, 469 632 0488
+16, SAS, Trumbull St, Cary, 27513, NC, 880 000 1499
+17, Sterling Infosystems, Dove Loop, New York, 10004, NY, 257 068 6040
+18, Buildingeye, Lucy St, Palo Alto, 90017, CA, 214 812 7255
+19, Trulia, Pond St, San Francisco, 94105, CA, 644 888 2583
+20, HealthPocket Inc., Harkness Ave, Sunnyvale, 94085, CA, 781 078 0018
+21, The Schork Report, Middle Point Rd, Villanova, 19085, PA, 857 560 0425
+22, Fuzion Apps Inc., Gough St, Sugar Land, 77479, TX, 384 199 4652
+23, Google Public Data Explorer, Mountain Spring Ave, Mountain View, 94043, CA, 619 301 0318
+24, Clean Power Finance, Merlin St, San Francisco, 94105, CA, 456 770 7306
+25, Mercaris, San Jose Ave, Silver Spring, 20910, MD, 559 645 5343
+26, Allied Van Lines, Tomaso Ct, Oakbrook Terrace, 60181, IL, 320 980 8732
+27, Tendril, Lombard St, Boulder, 80301, CO, 255 424 2546
+28, Altova, Wood St, Beverly, 1915, MA, 759 566 7693
+29, ClearHealthCosts, Donahue St, New York City, 10036, NY, 591 412 7968
+30, Kroll Bond Ratings Agency, Gaviota Way, New York, 10022, NY, 240 150 2963
+31, Inovalon, Casa Way, Bowie, 20716, MD, 510 481 9364
+32, MetLife, Mayflower St, New York, 10166, NY, 282 336 3646
+33, Kaiser Permanante, Arago St, Oakland, 94612, CA, 337 536 6688
+34, Yahoo, Orizaba Ave, Sunnyvale, 94089, CA, 398 114 9302
+35, BizVizz, Louisburg St, Milwaukee, 53202, WI, 213 777 4019
+36, Biovia, Malvina Pl, San Diego, 92121, CA, 345 601 7452
+37, HopStop, Fernwood Dr, New York, 10016, NY, 469 839 6445
+38, Cappex, Forest Hill Path, Chicago, 60606, IL, 323 613 6987
+39, Jurispect, Ship St, Mountain View, 94043, CA, 853 204 7279
+40, SolarList, Montezuma St, Brooklyn, 11201, NY, 126 272 7634
+41, PatientsLikeMe, 09th St, Cambridge, 2141, MA, 761 861 8023
+42, Paxata, Balboa St, Redwood City, 94063, CA, 774 740 7279
+43, TrustedID, Monument Way, Palo Alto, 94306, CA, 607 965 1323
+44, Poncho App, Jerrold Ave, New York, 10014, NY, 215 083 0878
+45, DataLogix, Turner Ter, Westminster, 80021, CO, 222 960 0477
+46, United Mayflower, Gould St, St. Louis, 63122, MO, 468 861 6950
+47, Pave, Randolph St, New York, 10013, NY, 175 502 5344
+48, Vitals, San Antonio Pl, Lyndhurst, 7071, NJ, 755 971 4791
+49, Ceiba Solutions, Lucky St, Boston, 2109, MA, 288 638 2203
+50, Progressive Insurance Group, Washington St, Mayfield Village, 44143, OH, 581 984 3376
+51, Plus-U, Siesta Way, New York, 10016, NY, 513 269 3442
+52, Smart Utility Systems, Pontiac St, Chino Hills, 91709, CA, 667 037 7903
+53, Roadify Transit, Sibley Rd, New York City, 11215, NY, 956 284 0741
+54, Personal Democracy Media, Mint Plz, New York, 10012, NY, 867 577 9982
+55, StreamLink Software, Schofield Rd, Cleveland, 44115, OH, 878 687 2494
+56, KLD Research, Boylston St, New York, 10005, NY, 485 440 2900
+57, Captricity, 35th Ave, Berkeley, 94704, CA, 190 812 5606
+58, Sophic Systems Alliance, Crestmont Dr, East Falmouth, 2536, MA, 796 038 6740
+59, First Fuel Software, Gibbon Ln, Lexington, 2420, MA, 642 079 4278
+60, Energy Points Inc., Avenue Of The Palms, Boston, 2114, MA, 997 669 0518
+61, Kroll Bond Ratings Agency, Roach St, New York, 10022, NY, 826 811 7915
+62, Science Exchange, 24th St, Palo Alto, 94301, CA, 297 960 1223
+63, Bing, Gerke Aly, Redmond, 98052, WA, 953 969 3967
+64, Azavea, Conservatory Access Rd, Philadelphia, 19107, PA, 644 810 5846
+65, VisualDoD LLC, Robinson Dr, Reston, 20190, VA, 842 894 8424
+66, Numedii, Seacliff Ave, Palo Alto, 94301, CA, 602 621 0965
+67, PeerJ, Acevedo Ave, Corte Madera, 94976, CA, 178 138 4900
+68, Numedii, Winn Way, Palo Alto, 94301, CA, 380 424 2460
+69, Urban Mapping Inc, Valerton Ct, San Francisco, 94108, CA, 768 481 0848
+70, Legal Science Partners, Myra Way, Narberth, 19072, PA, 251 661 3756
+71, Healthline, 30th Ave, San Francisco, 94107, CA, 869 617 6741
+72, Azavea, Healy Ave, Philadelphia, 19107, PA, 470 129 0068
+73, iMedicare, Bliss Rd, New York, 10013, NY, 125 044 4051
+74, Apextech LLC, Ulloa St, Arlington, 22201, VA, 838 478 0267
+75, Ernst & Young LLP, Sampson Ave, New York, 10036, NY, 469 312 4985
+76, Optensity, Rebecca Ln, McLean, 22101, VA, 812 848 0038
+77, WattzOn, Jade Pl, Mountain View, 94040, CA, 273 688 2890
+78, StreetCred Software Inc, San Lorenzo Way, Southlake, 76092, TX, 538 809 6884
+79, Compliance and Risks, Silverview Dr, Oregon House, 95962, CA, 987 565 8261
+80, Collective IP, 19th St, Denver, 80216, CO, 217 713 7570
+81, Smartronix, Cohen Pl, Hollywood, 20636, MD, 489 875 3028
+82, Propeller Health, Prospect Ave, Madison, 53703, WI, 167 997 2297
+83, Booz Allen Hamilton, Appleton St, McLean, 22102, VA, 652 214 8257
+84, DataMarket, Berry St, Boston, 2110, MA, 527 064 7554
+85, Rand McNally, Jules Ave, Skokie, 60077, IL, 187 314 5505
+86, Oliver Wyman, Harbor Rd, New York, 10036, NY, 970 019 2028
+87, LegiNation Inc., Pemberton Pl, Denver, 80203, CO, 428 734 1059
+88, Locavore, Normandie Ter, Madison, 53703, WI, 690 351 1221
+89, Copyright Clearance Center, Clearview Ct, Danvers, 1923, MA, 293 995 9958
+90, Retroficiency, Gates St, Boston, 2114, MA, 643 011 9552
+91, Revelstone, Pennington St, Parsippany, 7054, NJ, 236 486 8050
+92, Yahoo, Cayuga Ave, Sunnyvale, 94089, CA, 424 912 4963
+93, Ceiba Solutions, Carr St, Boston, 2109, MA, 276 637 3891
+94, Webitects, Vinton Ct, Chicago, 60603, IL, 377 065 1583
+95, Enigma.io, Sunset Blvd On Ramp, New York, 10012, NY, 591 018 6070
+96, United Mayflower, Atalaya Ter, St. Louis, 63122, MO, 698 183 3452
+97, Inovalon, Wentworth Pl, Bowie, 20716, MD, 828 771 1149
+98, LexisNexis, I-80 Eastbound, New York, 10017, NY, 587 065 0566
+99, Noesis, 24th St, Austin, 78759, TX, 753 571 8979
+100, The DocGraph Journal, Arroyo Way, Houston, 77004, TX, 627 882 3445
